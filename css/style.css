@@ -1,28 +1,17 @@
-
-
-
 body {
-  background-color: lightblue;
+    background-color: lavender;
+    background-repeat: repeat-x;
+    background-image: url(../image/owlheader.jpg);
+    background-size: 250px;
+    width: 75%;
 }
 
-h2 {
-  color: white;
+h2{
+    color: #6495ED;
 }
 
-h2 {
-  font-family: <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap" rel="stylesheet">;
-  font-size: 25px;
-    text-align: center;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-}
-
-my-id{ align-items: center; }
-
-.index-h2-Content-Creator {
-  color: white;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-}
-
-p {text-align: center;
-
+h3{
+	color: #6495ED;
+	text-decoration: underline;
+	font-size: 25px;
 }
